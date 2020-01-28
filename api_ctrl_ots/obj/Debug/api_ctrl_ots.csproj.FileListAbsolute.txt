@@ -1,0 +1,6 @@
+D:\Beto\Proyectos\Control_OTs\api\api_ctrl_ots\api_ctrl_ots\bin\api_ctrl_ots.dll.config
+D:\Beto\Proyectos\Control_OTs\api\api_ctrl_ots\api_ctrl_ots\bin\api_ctrl_ots.dll
+D:\Beto\Proyectos\Control_OTs\api\api_ctrl_ots\api_ctrl_ots\bin\api_ctrl_ots.pdb
+D:\Beto\Proyectos\Control_OTs\api\api_ctrl_ots\api_ctrl_ots\obj\Debug\api_ctrl_ots.csprojResolveAssemblyReference.cache
+D:\Beto\Proyectos\Control_OTs\api\api_ctrl_ots\api_ctrl_ots\obj\Debug\api_ctrl_ots.dll
+D:\Beto\Proyectos\Control_OTs\api\api_ctrl_ots\api_ctrl_ots\obj\Debug\api_ctrl_ots.pdb
